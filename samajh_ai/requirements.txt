@@ -1,0 +1,10 @@
+ultralytics==8.3.115
+ultralytics-thop==2.0.14
+opencv-python==4.11.0.86
+torch==2.7.0
+torchvision==0.22.0
+numpy==2.1.1
+scipy==1.15.2
+filterpy==1.4.5
+matplotlib==3.10.1
+
